@@ -30,6 +30,11 @@ Press ⌘K to insert a hyperlink. It can be either literal URL (e.g.
 <http://www.google.com/>) or have some [text](<http://www.texts.io/>). Click URL
 with ⌘ key pressed to open it in web browser.
 
+Images
+------
+
+![](<../images/radcliffe-camera.jpg>)
+
 Math
 ----
 
