@@ -17,3 +17,11 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+# Set layout for Markdown files in _posts
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "post"
