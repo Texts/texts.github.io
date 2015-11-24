@@ -1,34 +1,13 @@
 ---
-title: "Welcome to Texts!"
+title: Texts + GitHub Pages = Blog
 ---
+
+Follow simple [instructions](<http://www.texts.io/support/0017/>) to publish
+your blog on GitHub Pages and write posts in Texts.
 
 Texts is “rich editor for plain text”—you can write documents in visual
 interface and they will be saved in plain text format with Markdown markup. This
-document shows some styles available in Texts. Please feel free to edit it—a
-fresh copy is always available via Help menu.
-
-Inline Formatting
------------------
-
-To apply *emphasis* or **strong emphasis** press ⌘I or ⌘B and type. Press again
-to turn it off.
-
-Footnotes
----------
-
-Notes can be placed anywhere[^1] in the source file (press ⌘R to insert one).
-When document is published to paper-oriented format (PDF or Word) footnotes are
-displayed at the bottom of the corresponding page. E-book readers usually
-display notes in popups.
-
-[^1]: Yes, right here.
-
-Hyperlinks
-----------
-
-Press ⌘K to insert a hyperlink. It can be either literal URL (e.g.
-<http://www.google.com/>) or have some [text](<http://www.texts.io/>). Click URL
-with ⌘ key pressed to open it in web browser.
+document shows some of the styles available in Texts.
 
 Images
 ------
@@ -61,6 +40,15 @@ print_hi('Tom')
 Press “Enter” key inside code block to insert a line break or “Shift+Enter” to
 end code block.
 
+Footnotes
+---------
+
+Notes can be placed anywhere[^1] in the source file. When document is published
+to a paper-oriented format (PDF or Word) footnotes are displayed at the bottom
+of the page. E-book readers usually display notes in popups.
+
+[^1]: Yes, right here.
+
 Lists
 -----
 
@@ -79,9 +67,6 @@ Press “Tab” to indent paragraph and create subitem, “Shift+Tab” to unind
 Tables
 ------
 
-Press **\^⌘L** to create a table, ⌥⌘+arrow keys to add more columns or rows,
-\^⌘+arrow keys to move column or row. Here is a sample table.
-
 | **Features** | **Editable in Texts** | **Export to PDF** | **Export to HTML** |
 |--------------|-----------------------|-------------------|--------------------|
 | Basic Styles | ✓                     | ✓                 | ✓                  |
@@ -92,4 +77,4 @@ Press **\^⌘L** to create a table, ⌥⌘+arrow keys to add more columns or row
 Happy writing!
 ==============
 
-Got a question? Visit <http://www.texts.io/support/>.
+Got a question? Visit <http://www.texts.io/>.
