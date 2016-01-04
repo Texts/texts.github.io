@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Про сайт
 ---
 
 Hey there! This page is included as an example. Feel free to customize it for
