@@ -1,11 +1,11 @@
-title:              Blog
+title:              Tony's
 tagline:            on GitHub Pages
 description:        Content-focused template for a blog hosted on GitHub Pages.
-url:                http://YourName.github.io
+url:                http://txtech.net
 
 author:
-  name:             Your Name
-  url:              https://twitter.com/YourName
+  name:             Tony Xu
+  url:              http://txtech.net
   email:            YourName@gmail.com
 
 # GitHub Pages / Jekyll configuration
@@ -18,3 +18,6 @@ defaults:
       path:         ''
     values:
       layout:       post
+
+# This is the list of pages to incldue in the header of the website.
+pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
