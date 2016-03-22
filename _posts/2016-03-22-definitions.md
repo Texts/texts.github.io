@@ -1,6 +1,6 @@
 In carbonate minerals at thermodynamic equilibrium the relative abundance of the
-($$^{13}$$C$$^{18}$$O$$^{16}$$O$$^{16}$$O)$$^{2-}$$ isotopologue is determined
-by the equilibrium constant, $$K$$, for the reaction:
+$$^{13}$$C$$^{18}$$O$$^{16}$$O$$_{2}^{2-}$$ isotopologue is determined by the
+equilibrium constant, $$K$$, for the reaction:
 
  
 
@@ -18,12 +18,8 @@ action:
 
  
 
-$$
-K = \frac{[^{13}\rm{C}^{18}\rm{O}^{16}\rm{O}_2] \cdot
-[^{12}\rm{C}^{16}\rm{O}_3]}{[^{13}\rm{C}^{16}\rm{O}_3] \cdot
-[^{12}\rm{C}^{18}\rm{O}^{16}\rm{O}_2]}
-$$
-
- 
-
- 
+$$K = \frac{\left[ ^{13}\rm{C}^{18}\rm{O}^{16}\rm{O}_2^{2 - } \right] \cdot
+\left[ ^{12}\rm{C}^{16}\rm{O}_3^{2 - } \right]}{\left[
+^{13}\rm{C}^{16}\rm{O}_3^{2 - } \right] \cdot \left[
+^{12}\rm{C}^{18}\rm{O}^{16}\rm{O}_2^{2 - } \right]} = e^\left( {\frac{ - \Delta
+G}{RT} \right)}$$
