@@ -5,7 +5,7 @@ determined by the equilibrium constant, K, for the reaction:
  
 
 $$^{13}$$C$$^{18}$$O$$^{16}$$O$$_{2}^{2-}$$ + $$^{12}$$C$$^{16}$$O$$_{3}^{2-}$$
-$$\righleftharpoons$$ $$^{13}$$C$$^{16}$$O$$_{3}^{2-}$$ +
+$$\rightleftharpoons$$ $$^{13}$$C$$^{16}$$O$$_{3}^{2-}$$ +
 $$^{12}$$C$$^{18}$$O$$^{16}$$O$$_{3}^{2-}$$
 
  
