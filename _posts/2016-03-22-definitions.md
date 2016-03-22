@@ -14,9 +14,11 @@ $$K$$ is given by the law of mass action:
 
  
 
-$$K = \frac{[^{13}\rm{C}^{18}\rm{O}_2] \cdot
+$$
+K = \frac{[^{13}\rm{C}^{18}\rm{O}^{16}\rm{O}_2] \cdot
 [^{12}\rm{C}^{16}\rm{O}_3]}{[^{13}\rm{C}^{16}\rm{O}_3] \cdot
-[^{12}\rm{C}^{18}\rm{O}^{16}\rm{O}_2]}$$
+[^{12}\rm{C}^{18}\rm{O}^{16}\rm{O}_2]}
+$$
 
  
 
