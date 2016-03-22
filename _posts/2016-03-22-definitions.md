@@ -21,5 +21,5 @@ action:
 $$K = \frac{\left[ ^{13}\rm{C}^{18}\rm{O}^{16}\rm{O}_2^{2 - } \right] \cdot
 \left[ ^{12}\rm{C}^{16}\rm{O}_3^{2 - } \right]}{\left[
 ^{13}\rm{C}^{16}\rm{O}_3^{2 - } \right] \cdot \left[
-^{12}\rm{C}^{18}\rm{O}^{16}\rm{O}_2^{2 - } \right]} = e^\left( {\frac{ - \Delta
+^{12}\rm{C}^{18}\rm{O}^{16}\rm{O}_2^{2 - } \right]} = e^\left( \frac{ - \Delta
 G}{RT} \right)$$
