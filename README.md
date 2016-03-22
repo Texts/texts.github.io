@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+PaulFDennis.github.io
+=====================
+=======
 GitHub Pages Template
 =====================
 
@@ -13,3 +17,4 @@ License
 -------
 
 Open sourced under the [MIT license](<LICENSE.md>).
+>>>>>>> Texts/master
