@@ -75,3 +75,12 @@ LHR
 ![](trip planning december bulgaria.images/p8bGwq.png)
 
  
+
+**LHR-SOF**
+-----------
+
+ 
+
+ 
+
+![](trip planning december bulgaria.images/JO6o1F.png)
