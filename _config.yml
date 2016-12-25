@@ -1,12 +1,12 @@
-title:              Blog
-tagline:            on GitHub Pages
-description:        Content-focused template for a blog hosted on GitHub Pages.
-url:                http://YourName.github.io
+title:              Апостолски мисли
+tagline:            
+description:        Просто една онлайн тетрадка.
+url:                http://gpbak.github.io/bg
 
 author:
-  name:             Your Name
-  url:              https://twitter.com/YourName
-  email:            YourName@gmail.com
+  name:             gpbak
+  url:              http://gpbak.github.io/bg
+  email:            gpbak@opmbx.org
 
 # GitHub Pages / Jekyll configuration
 baseurl:            ''
@@ -18,3 +18,5 @@ defaults:
       path:         ''
     values:
       layout:       post
+
+theme: jekyll-theme-minimal
