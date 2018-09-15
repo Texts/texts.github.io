@@ -1,12 +1,12 @@
-title:              Blog
-tagline:            on GitHub Pages
-description:        Content-focused template for a blog hosted on GitHub Pages.
-url:                http://YourName.github.io
+title:              GitHub Blog of Hassan Rasheed
+tagline:            
+description:        Code and Projects in Big Data and Data Science
+url:                http://hsrasheed.github.io
 
 author:
-  name:             Your Name
+  name:             Hassan Rasheed, PhD
   url:              https://twitter.com/YourName
-  email:            YourName@gmail.com
+  email:            rasheedhs@gmail.com
 
 # GitHub Pages / Jekyll configuration
 baseurl:            ''
@@ -18,3 +18,5 @@ defaults:
       path:         ''
     values:
       layout:       post
+
+theme: jekyll-theme-cayman
