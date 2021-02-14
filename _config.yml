@@ -19,4 +19,4 @@ defaults:
     values:
       layout:       post
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
